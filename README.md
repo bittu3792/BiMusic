@@ -1,1 +1,7 @@
 # BiMusic
+* Compact player notification now shows buttons correctly
+* Added more translations
+* Added Nothing Phone (3a) / (3a) Pro support
+* Singles are now appearing correctly again in the artist screen
+* Piped servers on a subpath (i.e. pipedapi.example.com/piped/*) are now supported
+* 
